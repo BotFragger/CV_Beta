@@ -1,0 +1,86 @@
+@media only screen and (max-width: 1366px) {
+  nav ul {
+    width: 90%;
+    background-color: #2a2e39;
+    position: absolute;
+  }
+
+  .top-wrapper {
+    padding: 10% 0% 20.9% 10%;
+  }
+
+  html {
+    scroll-padding-top: 1px;
+  }
+
+  .TentangSaya {
+    padding: 1% 0% 1% 0%;
+  }
+
+  .TSekolah img {
+    width: 220px;
+    height: 430px;
+  }
+
+  section .images {
+    text-align: center;
+    padding: 10px 120px;
+  }
+
+  .footer {
+  height: 300px;
+  }
+
+  .head h2 {
+  padding: 5px 0;
+  margin-bottom: 5px;
+  }
+
+  .box {
+    padding : 1% 1%;
+  }
+
+  .single-box {
+    width: 249px;
+    height: 95%;
+    padding-bottom: 1%;
+    margin-bottom: 4.4%;
+  }
+
+  .txt-box {
+    height: 250px;
+    width: 249px;
+    padding: 4.9%;
+    font-size: 16px;
+  }
+
+  .img-box {
+    margin: 5px 0;
+    width:100px;
+    height: 100px;
+    background-size: 100px;
+  }
+
+  .modiv-txt{
+    padding: 1%;
+  }
+
+  .single-box:nth-child(1) .img-box {
+    background-size: 190px
+  }
+
+  .single-box:nth-child(2) .img-box {
+    background-size: 180px
+  }
+  .single-box:nth-child(3) .img-box {
+    background-size: 180px
+  }
+
+  .KotakSaran {
+    padding: 350px 0 100px;
+    margin-bottom: 10px;
+  }
+
+  
+
+}
